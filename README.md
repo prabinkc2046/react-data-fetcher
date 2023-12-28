@@ -35,5 +35,6 @@ Open your browser and navigate to http://localhost:3000 to view the React Data F
 
 ## How it Works
 
-	- The app fetches data from the 			  JSONPlaceholder API when you click the "I fetch data when you click me" button.
-	- The fetched data is displayed using React components with Bootstrap styling.
+- The app fetches data from the 			  JSONPlaceholder API when you click the "I fetch data when you click me" button.
+
+- The fetched data is displayed using React components with Bootstrap styling.
